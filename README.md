@@ -42,12 +42,8 @@
 사용하시다가 궁금한 사항이나 개선할 내용이 있다면 아래 블로그나 메일로 언제든지 문의해 주세요
 성실히 답변해 드리겠습니다.
 ```
-#### 개인블로그
+#### 개인블로그 : [http://barocommand.tistory.com/](http://barocommand.tistory.com/)
 
-	<a href="http://barocommand.tistory.com/" target="_blank">http://barocommand.tistory.com/</a>
-
-#### 이메일
-
-	isitna@gmail.com
+#### 이메일 : isitna@gmail.com
 
 
