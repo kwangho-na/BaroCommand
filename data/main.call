@@ -7,9 +7,9 @@ inc('common.class');
 inc('common.util');
 inc('common.my');
 
-call( conf('src.commonFunc') );
-page=pageLoad('dev.tool').commandTool();
+parent=pageLoad('dev.tool');
+page=parent.commandTool();
 not( typeof(page,'page') ) {
-	print(@error, "시작페이지 오류");
+	print(@error, "start page error (data/main.call file check)" );
 }
 Cf[mainPage]=page;
