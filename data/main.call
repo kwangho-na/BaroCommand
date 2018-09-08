@@ -6,7 +6,7 @@ inc('common.etc');
 inc('common.class');
 inc('common.util');
 inc('common.my');
-
+call( conf('src.commonFunc') );
 parent=pageLoad('dev.tool');
 page=parent.commandTool();
 not( typeof(page,'page') ) {
